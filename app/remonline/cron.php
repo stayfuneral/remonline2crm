@@ -103,7 +103,5 @@ if (
 
     }
 
-    // writeToLog(LOG_DIRECTORY . 'remonline/'.date('d-m-Y/H/') . 'new_client_' . date('H-i-s.') . 'txt', $logData, 'New client');
-
 }
 
