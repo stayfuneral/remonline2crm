@@ -1,0 +1,6 @@
+index.php
+composer.lock
+/.vscode
+/app/bitrix24/configs/crest.php
+/app/bitrix24/configs/settings.php
+/vendor

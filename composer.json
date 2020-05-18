@@ -1,0 +1,25 @@
+{
+    "name": "ramapriya/remonline_app",
+    "description": "Application for API integration between Bitrix24 and Remonline service",
+    "type": "project",
+    "require": {
+        "rgonyukov/remonline-sdk": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Gonyukov",
+            "email": "roman@bx24.store"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "app/bitrix24/configs",
+            "app/remonline"
+        ],
+        "files": [
+            "app/bitrix24/configs/settings.php"
+        ]
+    }
+}
