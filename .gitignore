@@ -1,6 +1,8 @@
+app/.DS_Store
+.DS_Store
 index.php
 composer.lock
-/.vscode
-/app/bitrix24/configs/crest.php
-/app/bitrix24/configs/settings.php
-/vendor
+.vscode
+app/bitrix24/configs/crest.php
+app/bitrix24/configs/settings.php
+vendor
